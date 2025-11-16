@@ -8,4 +8,8 @@ Learning Resource: Editing Files
 🧪 Activity: Editing Files in
 
 ----------------------------------------------
+
+Git GUI 
+
+----------------------------------------------
 This Is a new line to test
