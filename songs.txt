@@ -6,3 +6,6 @@ Files and Permissions
 🧪 Activity: File Management and Git
 Learning Resource: Editing Files
 🧪 Activity: Editing Files in
+
+----------------------------------------------
+This Is a new line to test
